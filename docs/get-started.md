@@ -1,6 +1,6 @@
 # Network Intrusion Detection System (NIDS)
 
-This page provides an overview of the **Network Intrusion Detection System (NIDS)** project, its objectives, and the machine learning models used to detect intrusions in IoT environments.
+This page provides as a short overview of the **Network Intrusion Detection System (NIDS)** research project, its objectives, and the machine learning models used to detect intrusions in IoT environments on the CIC IOT 2023 dataset.
 
 ## Project Overview
 
@@ -298,4 +298,4 @@ See [Conclusion](#conclusion) for the final insights.
 
 ## Conclusion
 
-The **Hybrid Stacking Classifier** is the most effective model for detecting intrusions in IoT environments, with the highest accuracy and precision. Future work could explore additional datasets and expand the use of other machine learning models.
+The **Hybrid Stacking Classifier** is the most effective model for detecting intrusions in IoT environments, with the highest accuracy and precision. Future work could explore additional datasets and expand the use of other machine learning models. If wanting the detail documentation please email me I will respond as soon as possible *bscs2012367@szabist.pk*
